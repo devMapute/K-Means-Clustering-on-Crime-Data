@@ -1,8 +1,4 @@
-devMapute: create a readme for this repo
 
-Workspace: Collecting workspace informationHere is a `README.md` file for your repository:
-
-```markdown
 # K-Means Clustering on Crime Data
 
 This project performs K-Means clustering on crime data from Baltimore. It reads crime data from a CSV file, extracts coordinates, and applies the K-Means clustering algorithm to group the data into clusters based on their spatial proximity. The results are saved in an output file and visualized using a geoplot.
@@ -101,5 +97,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 - Crime data sourced from Baltimore's public datasets.
 - Visualization powered by the `geoplot` library.
-```
 
